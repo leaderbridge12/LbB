@@ -41,7 +41,7 @@
     "winston": "^3.3.3"
   },
   "devDependencies": {
-    "nodemon": "^2.0.9",
+    "nodemon": "^2.0.19",
     "sonarqube-scanner": "^2.8.1"
   }
 }
